@@ -2,7 +2,7 @@
  *
  * Created by: Kyle Matthew
  * Created on: Feb 2026
- * This program does basic math 
+ * This program does basic math
 */
 
 basic.clearScreen()
@@ -18,4 +18,3 @@ basic.pause(10)
 /* In Area */
 basic.showString('The area would be:' + (5*3).toString())
 basic.pause(10)
-
