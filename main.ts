@@ -12,9 +12,9 @@ basic.showString('A rectangle has dimensions 5 cm & 3 cm.')
 basic.pause(10)
 
 /* In Perimeter */
-basic.showString('The perimeter would be:' + (2 * (5 + 3)).toString() + "cm")
+basic.showString('The perimeter would be: ' + (2 * (5 + 3)).toString() + " cm")
 basic.pause(10)
 
 /* In Area */
-basic.showString('The area would be:' + (5 * 3).toString() + "cm^2")
+basic.showString('The area would be: ' + (5 * 3).toString() + " cm^2")
 basic.pause(10)
